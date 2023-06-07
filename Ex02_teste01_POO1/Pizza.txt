@@ -1,0 +1,5 @@
+32.0;Bordas Rechedas;7;Bordas Rechedas;mol;96.0
+54.0;Bordas Rechedas;7;Bordas Rechedas;mas;162.0
+34.0;Bordas nao Rechedas;7;Bordas nao Rechedas;normal;102.0
+68.0;Bordas Rechedas;7;Bordas Rechedas;simples;204.0
+98.0;Bordas Rechedas;7;Bordas Rechedas;simples;294.0
